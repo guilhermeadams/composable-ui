@@ -38,7 +38,7 @@
     "algoliasearch": "^4.14.3",
     "focus-visible": "^5.2.0",
     "framer-motion": "^7.1.0",
-    "next": "^13.3.1",
+    "next": "^14.2.4",
     "next-auth": "^4.20.1",
     "next-seo": "^5.5.0",
     "next-sitemap": "^3.1.52",
@@ -49,7 +49,7 @@
     "react-instantsearch-hooks-server": "^6.39.2",
     "react-instantsearch-hooks-web": "^6.39.1",
     "react-intl": "^5.21.1",
-    "sharp": "^0.31.3",
+    "sharp": "^0.33.4",
     "superjson": "1.9.1",
     "yup": "^0.32.11",
     "zod": "^3.20.2"
